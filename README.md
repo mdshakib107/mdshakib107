@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Md Mehedi Hassan Shakib</h1>
-<h3 align="center">I'm a passionate Full-Stack Web Developer with a strong foundation in the MERN stack, and a focus on TypeScript, Node, MongoDB, Mongose, Next.js, and Redux. I've growth mindset, strong leadership, and excellent communication skills.</h3>
+<h5 align="center">I'm a passionate Full-Stack Web Developer with a strong foundation in the MERN stack, and a focus on TypeScript, Node, MongoDB, Mongose, Next.js, and Redux. I've growth mindset, strong leadership, and excellent communication skills.</h5>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshakib107" alt="mdshakib107" /></a> </p>
 
