@@ -3,6 +3,12 @@
 <h5 align="center">I'm a passionate Full-Stack Web Developer with a strong foundation in the MERN stack, and a focus on TypeScript, Node, MongoDB, Mongose, Next.js, and Redux. I've growth mindset, strong leadership, and excellent communication skills.</h5>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshakib107" alt="mdshakib107" /></a> </p>
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 - 🔭 I’m currently working on [MediMart](https://medi-mart-night.vercel.app/)
 
