@@ -3,7 +3,10 @@
 <h5 align="center">I'm a passionate Full-Stack Web Developer with a strong foundation in the MERN stack, and a focus on TypeScript, Node, MongoDB, Mongose, Next.js, and Redux. I've growth mindset, strong leadership, and excellent communication skills.</h5>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdshakib107" alt="mdshakib107" /></a> </p>
- 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdshakib107&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshakib107&layout=compact&theme=react&hide_border=true" />
+</p> 
 <h3 align="left">Current Stats:</h3>
 <br />
 <p align="center">
