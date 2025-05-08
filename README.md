@@ -30,7 +30,10 @@
 <p align="center">
 <img width="60%" src="https://github-readme-streak-stats-seven-liart.vercel.app??user=mdshakib107&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 
-
+## :bar_chart: My Stats 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdshakib107&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 </p>
 
 - 🔭 I’m currently working on [MediMart](https://medi-mart-night.vercel.app/)
