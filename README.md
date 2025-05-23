@@ -34,7 +34,17 @@
 
 - 🔭 I’m currently working on [MediMart](https://medi-mart-night.vercel.app/)
 
-- 🌱 I’m currently learning **DBMS, SQL, PostgreSQL, Prisma, GraphQL, Laravel, Docker, AWS**
+- 🌱 I’m currently learning
+  <p>
+  <img alt="DBMS" src="https://img.shields.io/badge/-DBMS-4B8BBE?style=flat-square&logo=database&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-0C344B?style=flat-square&logo=prisma&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
 
 - 👨‍💻 All of my projects are available at [https://shakib101.vercel.app/](https://shakib101.vercel.app/)
 
