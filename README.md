@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently working on [MediMart](https://medi-mart-night.vercel.app/)
 
-- 🌱 I’m currently learning **DBMS, SQL, PostgreSQL, Prisma, GraphQL, Laravel, AWS**
+- 🌱 I’m currently learning **DBMS, SQL, PostgreSQL, Prisma, GraphQL, Laravel, Docker, AWS**
 
 - 👨‍💻 All of my projects are available at [https://shakib101.vercel.app/](https://shakib101.vercel.app/)
 
