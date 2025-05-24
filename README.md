@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdshakib107/mdshakib107/main/bannar.png" alt="Profile Banner" />
+  <img src="https://github.com/mdshakib107/mdshakib107/blob/main/Banner" alt="Profile Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Mehedi Hassan Shakib</h1>
