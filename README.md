@@ -24,14 +24,17 @@
 </p>
 
 
- <p align="center">
+<!-- 📈 GitHub Stats -->
+<h3 align="center">📈 Current Stats</h3>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdshakib107&show_icons=true&theme=react&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshakib107&layout=compact&theme=react&hide_border=true" />
-</p> 
-<h3 align="left">Current Stats:</h3>
-<br />
+</p>
+
+<!-- 🔥 Streak -->
 <p align="center">
-<img width="60%" src="https://github-readme-streak-stats-seven-liart.vercel.app??user=mdshakib107&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats-seven-liart.vercel.app?user=mdshakib107&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 </p>
 <h1 align="center">📊 GitHub Activity Graph</h1>
