@@ -34,6 +34,15 @@
 <img width="60%" src="https://github-readme-streak-stats-seven-liart.vercel.app??user=mdshakib107&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 
 </p>
+<h1 align="center">📊 GitHub Activity Graph</h1>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mdshakib107&theme=tokyo-night" 
+    alt="GitHub Activity Graph" 
+  />
+</p>
+
 
 - 🔭 I’m currently working on [MediMart](https://medi-mart-night.vercel.app/)
 
