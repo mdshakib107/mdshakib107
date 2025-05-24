@@ -25,7 +25,7 @@
 
 
 <!-- 📈 GitHub Stats -->
-<h3 align="center">📈 Current Stats</h3>
+<h3 align="">📈 Current Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdshakib107&show_icons=true&theme=react&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshakib107&layout=compact&theme=react&hide_border=true" />
