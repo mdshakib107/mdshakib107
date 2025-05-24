@@ -1,11 +1,18 @@
+<!-- 🌟 Profile Banner -->
 <p align="center">
   <img src="https://github.com/mdshakib107/mdshakib107/blob/main/Banner" alt="Profile Banner" />
 </p>
 
+<!-- 🙋‍♂️ Introduction -->
 <h1 align="center">Hi 👋, I'm Md Mehedi Hassan Shakib</h1>
-<h4 align="center">I'm a passionate Full-Stack Web Developer with a strong foundation in the MERN stack, and a focus on TypeScript, Node, MongoDB, Mongose, Next.js, and Redux. I've growth mindset, strong leadership, and excellent communication skills.</h4>
-<h3>🚀 I Code With</h3>
-<p>
+<h4 align="center">
+  I'm a passionate Full-Stack Web Developer with a strong foundation in the MERN stack, and a focus on TypeScript, Node, MongoDB, Mongoose, Next.js, and Redux.<br />
+  I have a growth mindset, strong leadership, and excellent communication skills.
+</h4>
+
+<!-- 🚀 Technologies -->
+<h3 align="center">🚀 I Code With</h3>
+<p align="center">
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -23,32 +30,27 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-
- <p align="center">
+<!-- 📈 GitHub Stats -->
+<h3 align="center">📈 Current Stats</h3>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdshakib107&show_icons=true&theme=react&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshakib107&layout=compact&theme=react&hide_border=true" />
-</p> 
-<h3 align="left">Current Stats:</h3>
-<br />
-<p align="center">
-<img width="60%" src="https://github-readme-streak-stats-seven-liart.vercel.app??user=mdshakib107&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-
 </p>
+
+<!-- 🔥 Streak -->
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats-seven-liart.vercel.app?user=mdshakib107&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
+<!-- 📊 Contribution Graph -->
 <h1 align="center">📊 GitHub Activity Graph</h1>
-
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mdshakib107&theme=tokyo-night" 
-    alt="GitHub Activity Graph" 
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdshakib107&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
-
-
-- 🔭 I’m currently working on [MediMart](https://medi-mart-night.vercel.app/)
-
-- 🌱 I’m currently learning
-  <p>
+<!-- 🧠 Learning -->
+<h3 align="left">📚 Currently Learning</h3>
+<p align="left">
   <img alt="DBMS" src="https://img.shields.io/badge/-DBMS-4B8BBE?style=flat-square&logo=database&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
@@ -59,11 +61,17 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
+<!-- 🔭 Project -->
+- 🔭 I’m currently working on [MediMart](https://medi-mart-night.vercel.app/)
+
+<!-- 🌐 Portfolio -->
 - 👨‍💻 All of my projects are available at [https://shakib101.vercel.app/](https://shakib101.vercel.app/)
 
+<!-- 📫 Contact -->
 - 📫 How to reach me **mdshakib105100@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- 🔗 Socials -->
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/abu_al_qassam" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abu_al_qassam" height="30" width="40" />
@@ -75,5 +83,3 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stepup.shakib" height="30" width="40" />
   </a>
 </p>
-
-
