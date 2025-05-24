@@ -37,7 +37,7 @@
 </p>
 
 </p>
-<h1 align="center">📊 GitHub Activity Graph</h1>
+<h3 align="">📊 GitHub Activity Graph</h3>
 
 <p align="center">
   <img 
@@ -78,5 +78,3 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stepup.shakib" height="30" width="40" />
   </a>
 </p>
-
-সাজিয়ে দেও সুন্দর করে 
