@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./bannar.png" alt="Profile Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Md Mehedi Hassan Shakib</h1>
 <h4 align="center">I'm a passionate Full-Stack Web Developer with a strong foundation in the MERN stack, and a focus on TypeScript, Node, MongoDB, Mongose, Next.js, and Redux. I've growth mindset, strong leadership, and excellent communication skills.</h4>
 <h3>🚀 I Code With</h3>
